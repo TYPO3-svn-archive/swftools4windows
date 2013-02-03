@@ -1,14 +1,14 @@
 <?php
 
-########################################################################
-# Extension Manager/Repository config file for ext "pdfcontroller".
-#
-# Auto generated 21-02-2012 13:31
-#
-# Manual updates:
-# Only the data in the array - everything else is removed by next
-# writing. "version" and "dependencies" must not be touched!
-########################################################################
+/***************************************************************
+ * Extension Manager/Repository config file for ext "swftools4windows".
+ *
+ * Auto generated 03-02-2013 16:11
+ *
+ * Manual updates:
+ * Only the data in the array - everything else is removed by next
+ * writing. "version" and "dependencies" must not be touched!
+ ***************************************************************/
 
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'Swftools for Windows',
@@ -42,7 +42,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'conflicts' => '',
 	'suggests' => array(
 	),
-	'_md5_values_when_last_written' => '',
+	'_md5_values_when_last_written' => 'a:5:{s:9:"ChangeLog";s:4:"11cb";s:12:"ext_icon.gif";s:4:"ebb8";s:14:"doc/manual.pdf";s:4:"6084";s:14:"doc/manual.sxw";s:4:"cfc0";s:22:"lib/swftools-0.9.1.exe";s:4:"9dbe";}',
 );
 
 ?>
